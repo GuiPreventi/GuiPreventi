@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0B1F3A,100:00C8E8&height=190&section=header&text=Guilherme%20Preventi&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%26%20Machine%20Learning&descSize=17&descAlignY=60" alt="Guilherme Preventi" />
+<img src="./banner.png" alt="Guilherme Preventi | Engenharia de Software, IA e Machine Learning" width="100%" />
 
 ### Olá, eu sou o Guilherme! 👋
 
@@ -11,6 +12,8 @@ Tenho interesse em desenvolver soluções que conectem **engenharia de software,
 [![GitHub](https://img.shields.io/badge/GitHub-GuiPreventi-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/GuiPreventi)
 
 </div>
+
+---
 
 ## 👨‍💻 Sobre mim
 
@@ -45,7 +48,8 @@ Tenho interesse em desenvolver soluções que conectem **engenharia de software,
 
 <div align="center">
 
-`Engenharia de Software` · `Inteligência Artificial` · `Machine Learning`  
+`Engenharia de Software` · `Inteligência Artificial` · `Machine Learning`
+
 `Agentes de IA` · `Desenvolvimento Backend` · `Arquitetura de Software`
 
 </div>
@@ -55,7 +59,5 @@ Tenho interesse em desenvolver soluções que conectem **engenharia de software,
 <div align="center">
 
 **Aprendendo, construindo e evoluindo a cada projeto.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8E8,50:0B1F3A,100:020617&height=95&section=footer" alt="Rodapé Dark Tech" />
 
 </div>
