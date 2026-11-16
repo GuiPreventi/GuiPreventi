@@ -37,9 +37,9 @@ Tenho interesse em desenvolver soluções que conectem **engenharia de software,
 ![Pandas](https://img.shields.io/badge/Pandas-101827?style=for-the-badge&logo=pandas&logoColor=E2E8F0)
 ![NumPy](https://img.shields.io/badge/NumPy-101827?style=for-the-badge&logo=numpy&logoColor=4DABCF)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-101827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![PyTorch](https://img.shields.io/badge/PyTorch-101827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![PyTorch](https://img.shields.io/badge/PyTorch-101827.svg?logo=pytorch&logoColor=EE4C2C&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-101827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Git](https://img.shields.io/badge/Git-101827?style=for-the-badge&logo=git&logoColor=F05032)
+![Git](https://img.shields.io/badge/Git-101827.svg?logo=git&logoColor=F05032&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-101827?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
 </div>
